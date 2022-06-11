@@ -2,5 +2,7 @@ vip.floatationdevice.guilded4j
 vip.floatationdevice.guilded4j.enums
 vip.floatationdevice.guilded4j.event
 vip.floatationdevice.guilded4j.exception
+vip.floatationdevice.guilded4j.misc
 vip.floatationdevice.guilded4j.object
+vip.floatationdevice.guilded4j.object.misc
 vip.floatationdevice.guilded4j.rest
